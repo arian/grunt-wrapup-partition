@@ -1,0 +1,30 @@
+{
+  "name": "grunt-wrapup-partition",
+  "version": "0.0.0",
+  "description": "wrapup-partition grunt task",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arian/grunt-wrapup-partition.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt",
+    "gruntplugin",
+    "wrapup",
+    "partition",
+    "browser",
+    "amd"
+  ],
+  "author": "Arian Stolwijk",
+  "license": "MIT",
+  "dependencies": {
+    "wrapup": "0.13",
+    "prime": "~0.3.2"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
