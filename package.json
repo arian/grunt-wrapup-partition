@@ -21,7 +21,7 @@
   "author": "Arian Stolwijk",
   "license": "MIT",
   "dependencies": {
-    "wrapup": "0.13",
+    "wrapup": "~0.13",
     "prime": "~0.3.2"
   },
   "devDependencies": {
