@@ -22,7 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "wrapup": "~0.13",
-    "wrapup-partition": "~0.0.6",
+    "wrapup-partition": "~0.0.7",
     "prime": "~0.3.2"
   },
   "devDependencies": {
