@@ -1,6 +1,6 @@
 {
   "name": "grunt-wrapup-partition",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "wrapup-partition grunt task",
   "main": "index.js",
   "repository": {
