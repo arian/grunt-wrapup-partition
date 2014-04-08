@@ -20,7 +20,11 @@ module.exports = function(grunt){
 		var wrup = new WrapUp();
 		var partition = new Partition();
 
-		partition.on('warn', function(err){
+		wrup.on('warn', function (err) {
+			grunt.fail.warn(err.message);
+		});
+
+		partition.on('warn', function (err) {
 			grunt.fail.warn(err.message);
 		});
 
