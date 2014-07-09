@@ -4,7 +4,7 @@ var fs = require('fs');
 var path = require('path');
 var WrapUp = require('wrapup/lib/wrapup');
 var Partition = require('wrapup-partition');
-var forOwn = require('prime/object/forOwn');
+var forOwn = require('mout/object/forOwn');
 
 module.exports = function(grunt){
 
