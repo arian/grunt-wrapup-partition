@@ -21,7 +21,8 @@
   "author": "Arian Stolwijk",
   "license": "MIT",
   "dependencies": {
+    "mout": "^0.9.1",
     "wrapup": "^1.0.6",
-    "mout": "^0.9.1"
+    "wrapup-partition": "0.0.8"
   }
 }
